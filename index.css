@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+    color: white;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.score-container {
+    display: flex;
+}
+
+span {
+    color: #F94F6D;
+    background-color: #080001;
+    margin: auto;
+    
+}
+
+button {
+    background-color: #1B244A;
+    color: #9AABD8;
+    border: 1px solid #9AABD8;
+    border-radius: 5px;
+}
